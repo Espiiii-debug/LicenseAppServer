@@ -1,0 +1,15 @@
+{
+  "name": "fr.austerlitz.espiiii.licenseapp.server",
+  "version": "1.0.0-BETA",
+  "description": "A simple rest api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Espiiii",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.17.2",
+    "js-sha256": "^0.9.0"
+  }
+}
